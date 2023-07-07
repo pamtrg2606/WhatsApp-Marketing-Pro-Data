@@ -5,7 +5,7 @@
         "Home": {
             "version": "1.0.0",
             "tablewidget": {
-                "Home": {
+                "Dashboard": {
                     "Stt": {
                         "location": 0,
                         "width": 50,
