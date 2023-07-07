@@ -3,7 +3,41 @@
     "author": "Fanglin",
     "extensions": {
         "Home": {
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "tablewidget": {
+                "Home": {
+                    "Stt": {
+                        "location": 0,
+                        "width": 50,
+                        "hide": false
+                    },
+                    "Phone": {
+                        "location": 1,
+                        "width": 100,
+                        "hide": false
+                    },
+                    "Business": {
+                        "location": 2,
+                        "width": 100,
+                        "hide": false
+                    },
+                    "Proxy": {
+                        "location": 3,
+                        "width": 100,
+                        "hide": false
+                    },
+                    "Status": {
+                        "location": 4,
+                        "width": 100,
+                        "hide": false
+                    },
+                    "Action": {
+                        "location": 5,
+                        "width": 100,
+                        "hide": false
+                    }
+                }
+            }
         },
         "Register": {
             "version": "1.0.0"
