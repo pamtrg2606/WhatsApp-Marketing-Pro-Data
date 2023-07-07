@@ -1,7 +1,7 @@
 {
     "version": "1.1.0",
     "author": "Fanglin",
-    "Name":"WhatsApp-Marketing-Pro",
+    "name":"WhatsApp-Marketing-Pro",
     "urls":{
         "App": "https://d.apkpure.com/b/APK/com.whatsapp?version=latest",
         "Module": {
